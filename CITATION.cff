@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this identity mirror, cite PNVA-Core."
+title: "Gustavo Martins PNVA - PNVA-Core Identity Mirror"
+authors:
+  - family-names: "Martins"
+    given-names: "Gustavo de Aguiar"
+doi: "10.5281/zenodo.20044503"
+url: "https://enygnadev.github.io/pnva-core/gustavo-martins-pnva.html"
+date-released: "2026-05-07"
+license: "CC-BY-4.0"
