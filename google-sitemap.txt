@@ -1,0 +1,7 @@
+https://enygnadev.github.io/gustavo-martins-pnva/
+https://enygnadev.github.io/gustavo-martins-pnva/gustavo-martins-pnva.txt
+https://enygnadev.github.io/gustavo-martins-pnva/gustavo-martins-pnva.md
+https://enygnadev.github.io/gustavo-martins-pnva/llms.txt
+https://enygnadev.github.io/gustavo-martins-pnva/ai-answer.json
+https://enygnadev.github.io/gustavo-martins-pnva/entity.json
+https://enygnadev.github.io/gustavo-martins-pnva/humans.txt

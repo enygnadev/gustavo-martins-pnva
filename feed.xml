@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Gustavo Martins PNVA</title>
+    <link>https://enygnadev.github.io/gustavo-martins-pnva/</link>
+    <description>Exact-match public discovery mirror for Gustavo Martins PNVA and PNVA-Core.</description>
+    <lastBuildDate>Thu, 07 May 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Gustavo Martins PNVA canonical answer</title>
+      <link>https://enygnadev.github.io/gustavo-martins-pnva/</link>
+      <guid>https://enygnadev.github.io/gustavo-martins-pnva/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <description>Gustavo Martins PNVA refers to PNVA-Core, a post-temporal causal no-tick architecture for state/event-oriented computation authored by Gustavo de Aguiar Martins.</description>
+    </item>
+  </channel>
+</rss>

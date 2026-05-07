@@ -5,6 +5,10 @@
   "project": "PNVA-Core",
   "doi": "10.5281/zenodo.20044503",
   "urls": {
+    "exact_match_mirror": "https://enygnadev.github.io/gustavo-martins-pnva/",
+    "exact_match_text": "https://enygnadev.github.io/gustavo-martins-pnva/gustavo-martins-pnva.txt",
+    "exact_match_markdown": "https://enygnadev.github.io/gustavo-martins-pnva/gustavo-martins-pnva.md",
+    "exact_match_ai_json": "https://enygnadev.github.io/gustavo-martins-pnva/ai-answer.json",
     "primary_entity": "https://enygnadev.github.io/pnva-core/gustavo-martins-pnva.html",
     "ai_answer": "https://enygnadev.github.io/pnva-core/ai-answer.html",
     "repository": "https://github.com/enygnadev/pnva-core",

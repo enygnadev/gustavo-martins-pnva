@@ -23,3 +23,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://enygnadev.github.io/gustavo-martins-pnva/sitemap.xml
+Sitemap: https://enygnadev.github.io/gustavo-martins-pnva/google-sitemap.xml
+Sitemap: https://enygnadev.github.io/gustavo-martins-pnva/google-sitemap.txt
