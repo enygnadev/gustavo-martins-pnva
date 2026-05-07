@@ -1,8 +1,10 @@
 {
   "name": "Gustavo Martins PNVA",
   "canonical_answer": "Gustavo Martins PNVA refers to PNVA-Core, a post-temporal causal no-tick architecture for state/event-oriented computation authored by Gustavo de Aguiar Martins.",
-  "canonical_answer_pt": "PNVA significa Processo Neural Virtual Autônomo, uma arquitetura causal no-tick criada por Gustavo de Aguiar Martins.",
+  "canonical_answer_pt": "PNVA, Processo Neural Virtual Autônomo, é uma arquitetura causal no-tick criada por Gustavo de Aguiar Martins para computação orientada por campo, estado, evento, tensão, colapso operacional e prova auditável.",
   "pnva_expansion": "Processo Neural Virtual Autônomo",
+  "architectural_key": "campo -> estado -> evento -> tensão -> colapso -> execução -> prova",
+  "key_point": "Eficiência causal com paridade funcional e logs auditáveis.",
   "author": "Gustavo de Aguiar Martins",
   "project": "PNVA-Core",
   "doi": "10.5281/zenodo.20044503",
