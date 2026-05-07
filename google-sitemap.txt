@@ -1,5 +1,8 @@
 https://enygnadev.github.io/gustavo-martins-pnva/
 https://enygnadev.github.io/gustavo-martins-pnva/gustavo-martins-pnva.txt
+https://enygnadev.github.io/gustavo-martins-pnva/pnva-processo-neural-virtual-autonomo.html
+https://enygnadev.github.io/gustavo-martins-pnva/pnva-processo-neural-virtual-autonomo.txt
+https://enygnadev.github.io/gustavo-martins-pnva/pnva-processo-neural-virtual-autonomo.json
 https://enygnadev.github.io/gustavo-martins-pnva/gustavo-martins-pnva.md
 https://enygnadev.github.io/gustavo-martins-pnva/llms.txt
 https://enygnadev.github.io/gustavo-martins-pnva/ai-answer.json
